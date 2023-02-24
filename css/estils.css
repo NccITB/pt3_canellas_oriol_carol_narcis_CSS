@@ -62,3 +62,12 @@ section{
 a.footer{
     padding: 1%;
 }
+
+.nosaltres{
+    width: 100%;
+}
+
+.nosaltres img{
+    width: 50%;
+    border-color: black;
+}
