@@ -35,3 +35,6 @@ div.resepta{
     border-color: black;
     margin: auto;
 }
+div img{
+    width: 20%;
+}
