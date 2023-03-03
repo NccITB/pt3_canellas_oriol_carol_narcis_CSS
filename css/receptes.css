@@ -32,5 +32,6 @@ a.enllas:hover {
 }
 
 div.resepta{
-    display: inline;
+    border-color: black;
+    margin: auto;
 }
