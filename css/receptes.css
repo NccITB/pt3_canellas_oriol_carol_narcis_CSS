@@ -31,10 +31,16 @@ a.enllas:hover {
     padding: 1%;
 }
 
-div.recepta{
-    border-color: black;
-    margin: auto;
+.receptes{
+    display: flex;
 }
+
+div .resepta{
+    display: inline;
+    border-color: black;
+    margin: 2px;
+}
+
 div img{
     width: 20%;
 }
