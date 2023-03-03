@@ -18,11 +18,11 @@ body{margin: 0;}
 a.enllas{
     padding: 1%;
 }
-a.enllas:link{
+a.enllas:link, .enllasR{
     color: black;
     text-decoration: none;
 }
-a.enllas:visited{
+a.enllas:visited, .enllasR{
     color: black;
 }
 a.enllas:hover {
